@@ -6,7 +6,7 @@ An autonomous assistive robot designed to help individuals with autism and cogni
 
 📄 **Project Report**
 
-- [PromptoPal Technical Report](Documentation/Helper Robot (Promptopal)_compressed.pdf)
+- [PromptoPal Technical Report](Documentation/PromptoPal_Technical_Report.pdf)
 
 The report contains:
 - System architecture
